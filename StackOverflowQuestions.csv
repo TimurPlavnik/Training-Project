@@ -1,0 +1,105 @@
+title,votes,views,tags,user,date
+How do I check if an element is hidden in jQuery?,8030,"Viewed 2,811,178 times","['javascript', 'jquery', 'dom', 'visibility']",Philip Morton,2008-10-07 13:03:18
+How do I rename a local Git branch?,9173,"Viewed 3,278,133 times","['git', 'version-control', 'git-branch']",Forrest,2011-07-06 03:20:36
+Why does HTML think “chucknorris” is a color?,7943,"Viewed 625,829 times","['html', 'browser', 'background-color']",user456584,2011-11-29 22:54:22
+How do I force “git pull” to overwrite local files?,7810,"Viewed 5,504,874 times","['git', 'version-control', 'overwrite', 'git-pull', 'git-fetch']",Jakub Troszok,2009-07-14 14:58:15
+What is the “-->” operator in C/C++?,9312,"Viewed 843,000 times","['c++', 'c', 'operators', 'code-formatting', 'standards-compliance']",GManNickG,2009-10-29 06:57:45
+How can I remove a specific item from an array?,9190,"Viewed 7,855,393 times","['javascript', 'arrays']",Walker,2011-04-23 22:17:18
+Can comments be used in JSON?,8128,"Viewed 2,597,473 times","['json', 'comments']",Michael Gundlach,2008-10-28 20:39:03
+What and where are the stack and heap?,8432,"Viewed 1,581,380 times","['memory-management', 'stack', 'language-agnostic', 'heap', 'dynamic-memory-allocation']",mattshane,2008-09-17 04:18:06
+How do I delete a Git branch locally and remotely?,17745,"Viewed 8,663,777 times","['git', 'version-control', 'git-branch', 'git-push', 'git-remote']",Matthew Rankin,2010-01-05 01:12:15
+What is the difference between 'git pull' and 'git fetch'?,12398,"Viewed 2,922,304 times","['git', 'version-control', 'git-pull', 'git-fetch']",pupeno,2008-11-15 09:51:09
+What is the correct JSON content type?,10615,"Viewed 3,057,502 times","['json', 'http-headers', 'content-type']",Oli,2009-01-25 15:25:19
+How do I undo 'git add' before commit?,9590,"Viewed 3,532,123 times",['git'],paxos1977,2008-12-07 21:57:46
+How do I undo the most recent local commits in Git?,22348,"Viewed 9,339,691 times","['git', 'version-control', 'git-commit', 'undo']",Peter Mortensen,2009-05-29 18:09:14
+"What does “use strict” do in JavaScript, and what is the reasoning behind it?",7786,"Viewed 1,118,933 times","['javascript', 'syntax', 'jslint', 'use-strict']",Mark Rogers,2009-08-26 16:10:13
+Why is processing a sorted array faster than processing an unsorted array?,25305,"Viewed 1,580,492 times","['java', 'c++', 'performance', 'optimization', 'branch-prediction']",GManNickG,2012-06-27 13:51:36
+What does the “yield” keyword do?,10957,"Viewed 2,450,974 times","['python', 'iterator', 'generator', 'yield', 'coroutine']",Alex. S.,2008-10-23 22:21:11
+How do I remove a property from a JavaScript object?,6488,"Viewed 2,424,263 times","['javascript', 'javascript-objects']",johnstok,2008-10-16 10:57:45
+What does if __name__ == “__main__”: do?,6652,"Viewed 3,346,588 times","['python', 'namespaces', 'main', 'python-module', 'idioms']",Devoted,2009-01-07 04:11:00
+Why Is Subtracting These Two Times (in 1927) Giving A Strange Result?,7097,"Viewed 722,320 times","['java', 'date', 'timezone']",Freewind,2011-07-27 08:15:58
+Does Python have a ternary conditional operator?,6517,"Viewed 2,094,210 times","['python', 'operators', 'ternary-operator', 'conditional-operator']",Devoted,2008-12-27 08:32:18
+What is the difference between String and string in C#?,6834,"Viewed 1,145,424 times","['c#', '.net', 'string', 'types', 'alias']",Peter O.,2008-08-10 07:18:02
+How to check whether a string contains a substring in JavaScript?,7421,"Viewed 6,510,706 times","['javascript', 'string', 'substring', 'string-matching']",Peter O.,2009-11-24 13:04:29
+Is Java “pass-by-reference” or “pass-by-value”?,6947,"Viewed 2,132,605 times","['java', 'methods', 'parameter-passing', 'pass-by-reference', 'pass-by-value']",user4315,2008-09-02 20:14:29
+How do I revert a Git repository to a previous commit?,7626,"Viewed 6,826,543 times","['git', 'git-checkout', 'git-reset', 'git-revert']",Crazy Serb,2010-11-06 16:58:14
+var functionName = function() {} vs function functionName() {},7106,"Viewed 1,071,120 times","['javascript', 'function', 'syntax', 'idioms']",Richard Garside,2008-12-03 11:31:07
+How to remove local (untracked) files from the current Git working tree,7174,"Viewed 2,430,280 times","['git', 'branch', 'git-branch']",Readonly,2008-09-14 09:06:10
+How do I check out a remote Git branch?,7174,"Viewed 5,708,219 times","['git', 'git-checkout', 'remote-branch']",Juri Glass,2009-11-23 14:23:46
+How do JavaScript closures work?,7631,"Viewed 1,495,097 times","['javascript', 'function', 'variables', 'scope', 'closures']",Zaheer Ahmed,2008-09-21 14:12:07
+"How to modify existing, unpushed commit messages?",7659,"Viewed 2,761,051 times","['git', 'git-commit', 'git-rewrite-history', 'git-amend']",Laurie Young,2008-10-07 15:44:47
+How do I redirect to another webpage?,7716,"Viewed 6,640,561 times","['javascript', 'jquery', 'redirect']",venkatachalam,2009-02-02 12:54:16
+What are metaclasses in Python?,6080,"Viewed 869,764 times","['python', 'oop', 'metaclass', 'python-class', 'python-datamodel']",e-satis,2008-09-19 06:10:46
+How to execute a program or call a system command from Python,5195,"Viewed 3,615,480 times","['python', 'shell', 'terminal', 'subprocess', 'command']",freshWoWer,2008-09-18 01:35:30
+How can I get the source directory of a Bash script from within the script itself?,5288,"Viewed 1,900,735 times","['bash', 'directory']",Peter Mortensen,2008-09-12 20:39:56
+Move the most recent commit(s) to a new branch with Git,5389,"Viewed 1,181,231 times","['git', 'git-branch', 'branching-and-merging']",Mark A. Nicolosi,2009-10-27 03:07:34
+The definitive guide to form-based website authentication [closed],5456,"Viewed 623,266 times","['security', 'http', 'authentication', 'language-agnostic', 'article']",Michiel de Mare,2008-08-02 19:51:50
+How do I merge two dictionaries in a single expression (taking union of dictionaries)?,5487,"Viewed 2,183,610 times","['python', 'dictionary', 'merge']",Carl Meyer,2008-09-02 07:44:30
+How do I include a JavaScript file in another JavaScript file?,5538,"Viewed 3,472,070 times","['javascript', 'file', 'import', 'include']",Alec Smart,2009-06-04 11:59:50
+How to disable text selection highlighting,5475,"Viewed 2,142,694 times","['css', 'cross-browser', 'highlight', 'textselection']",Blowsie,2009-05-05 20:29:18
+PUT vs. POST in REST,5627,"Viewed 2,561,943 times","['http', 'rest', 'post', 'put']",alex,2009-03-10 14:25:20
+Which equals operator (== vs ===) should be used in JavaScript comparisons?,5660,"Viewed 1,879,756 times","['javascript', 'operators', 'equality', 'equality-operator', 'identity-operator']",bcasp,2008-12-11 14:19:49
+How do I find all files containing specific text on Linux?,5818,"Viewed 7,453,029 times","['linux', 'text', 'grep', 'directory', 'find']",Nathan,2013-06-06 08:06:45
+How do I check whether a file exists without exceptions?,6028,"Viewed 4,229,464 times","['python', 'file', 'file-exists']",spence91,2008-09-17 12:55:00
+"What is the difference between “px”, “dip”, “dp” and “sp”?",6000,"Viewed 1,316,951 times","['android', 'android-layout', 'user-interface', 'dimension', 'units-of-measurement']",capecrawler,2010-01-08 03:23:46
+How do I return the response from an asynchronous call?,5856,"Viewed 1,635,881 times","['javascript', 'jquery', 'ajax', 'asynchronous']",Felix Kling,2013-01-08 17:06:14
+How to make Git “forget” about a file that was tracked but is now in .gitignore?,6056,"Viewed 1,449,273 times","['git', 'gitignore', 'git-rm']",Ivan,2009-08-13 19:23:22
+What is the most efficient way to deep clone an object in JavaScript?,5176,"Viewed 2,198,076 times","['javascript', 'object', 'clone']",jschrab,2008-09-23 16:26:09
+Reference — What does this symbol mean in PHP?,4675,"Viewed 709,838 times","['php', 'arguments', 'logic', 'operators', 'symbols']",Gordon,2010-09-17 16:24:07
+How do I check whether a checkbox is checked in jQuery?,4784,"Viewed 4,321,522 times","['javascript', 'jquery', 'html', 'checkbox']",Prasad,2009-05-23 15:16:39
+How to replace all occurrences of a string in Javascript?,4732,"Viewed 3,685,055 times","['javascript', 'string', 'replace']",Click Upvote,2009-07-17 17:53:46
+How to validate an email address in JavaScript,4764,"Viewed 3,413,187 times","['javascript', 'regex', 'validation', 'email', 'email-validation']",pix0r,2008-09-05 16:10:11
+How do I push a new local branch to a remote Git repository and track it too?,4660,"Viewed 3,797,245 times","['git', 'repository', 'git-branch', 'git-push', 'git-remote']",Roni Yaniv,2010-05-04 12:58:34
+How to pass “Null” (a real surname!) to a SOAP web service in ActionScript 3,4672,"Viewed 927,983 times","['apache-flex', 'actionscript', 'soap', 'coldfusion', 'wsdl']",bill,2010-12-16 00:42:14
+What is the difference between “INNER JOIN” and “OUTER JOIN”?,4843,"Viewed 2,401,225 times","['sql', 'database', 'join', 'inner-join', 'outer-join']",Chris de Vries,2008-09-01 22:36:06
+How can I reset or revert a file to a specific revision?,4846,"Viewed 2,191,670 times","['git', 'version-control', 'git-checkout']",Hates_,2008-10-18 23:34:02
+For-each over an array in JavaScript,4960,"Viewed 4,393,845 times","['javascript', 'arrays', 'loops', 'foreach', 'iteration']",Dante1986,2012-02-17 13:51:48
+What is the maximum length of a URL in different browsers?,5076,"Viewed 1,351,683 times","['http', 'url', 'browser']",Sander Versluys,2009-01-06 16:14:30
+How to resolve merge conflicts in Git repository?,4970,"Viewed 2,907,567 times","['git', 'git-merge', 'merge-conflict-resolution', 'git-merge-conflict']",Spoike,2008-10-02 11:31:05
+What's the difference between using “let” and “var”?,5000,"Viewed 1,497,184 times","['javascript', 'scope', 'ecmascript-6', 'var', 'let']",TM.,2009-04-17 20:09:26
+How do I discard unstaged changes in Git?,5158,"Viewed 2,874,786 times","['git', 'version-control']",Readonly,2008-09-09 19:33:59
+What is a plain English explanation of “Big O” notation?,5062,"Viewed 728,505 times","['algorithm', 'complexity-theory', 'computer-science', 'big-o', 'time-complexity']",Arec Barrwin,2009-01-28 11:10:32
+Reset local repository branch to be just like remote repository HEAD,4294,"Viewed 3,803,387 times","['git', 'undo']",hap497,2009-10-27 00:27:20
+How can I safely create a nested directory?,4613,"Viewed 2,852,551 times","['python', 'exception', 'path', 'directory', 'operating-system']",Parand,2008-11-07 18:56:45
+Setting “checked” for a checkbox with jQuery,4276,"Viewed 3,404,120 times","['javascript', 'jquery', 'checkbox', 'selected', 'checked']",tpower,2009-01-08 22:20:24
+How do I read / convert an InputStream into a String in Java?,4269,"Viewed 2,231,440 times","['java', 'string', 'io', 'stream', 'inputstream']",Johnny Maelstrom,2008-11-21 16:47:40
+How do I check if an array includes a value in JavaScript?,4293,"Viewed 2,806,419 times","['javascript', 'arrays', 'algorithm', 'time-complexity', 'javascript-objects']",brad,2008-10-25 22:14:40
+How to clone all remote branches in Git?,4317,"Viewed 1,348,096 times","['git', 'git-branch', 'git-clone', 'remote-branch']",Peter Coulton,2008-09-15 22:42:07
+The Definitive C++ Book Guide and List,4237,"Viewed 2,545,465 times","['c++', 'c++-faq']",sbi,2008-12-23 05:23:56
+How to change the URI (URL) for a remote Git repository?,4342,"Viewed 1,946,321 times","['git', 'url', 'git-remote']",e-satis,2010-03-12 12:48:47
+How can I determine the URL that a local Git repository was originally cloned from?,4443,"Viewed 3,171,293 times","['git', 'github', 'git-remote']",Tim,2010-11-03 16:47:46
+"What is the difference between a URI, a URL and a URN?",4529,"Viewed 1,185,996 times","['http', 'url', 'uri', 'urn', 'rfc3986']",Sean McMains,2008-10-06 21:26:58
+How to create a GUID / UUID,4481,"Viewed 2,092,681 times","['javascript', 'guid', 'uuid']",Jason Cohen,2008-09-19 20:01:00
+How can I add an empty directory to a Git repository?,4529,"Viewed 1,101,535 times","['git', 'directory', 'git-add']",Laurie Young,2008-09-22 16:41:03
+How to horizontally center an element,4562,"Viewed 4,267,936 times","['html', 'css', 'alignment', 'centering']",Peter Mortensen,2008-09-22 12:27:57
+Regular expression to match a line that doesn't contain a word,4573,"Viewed 3,703,467 times","['regex', 'regex-negation']",knaser,2009-01-02 07:30:16
+How can I pair socks from a pile efficiently?,3986,"Viewed 418,436 times","['algorithm', 'sorting', 'language-agnostic', 'matching']",amit,2013-01-19 15:34:35
+Accessing the index in 'for' loops?,3992,"Viewed 2,414,825 times","['python', 'loops', 'list']",Joan Venge,2009-02-06 22:47:54
+Squash my last X commits together using Git,4021,"Viewed 2,030,916 times","['git', 'rebase', 'squash', 'git-squash']",markdorison,2011-03-04 04:11:26
+How do you close/hide the Android soft keyboard using Java?,3992,"Viewed 1,614,811 times","['android', 'android-edittext', 'android-softkeyboard', 'android-input-method', 'soft-keyboard']",Ak23,2009-07-10 11:27:17
+How to enumerate an enum,3951,"Viewed 832,719 times","['c#', '.net', 'loops', 'enums', 'enumeration']",Ian Boyd,2008-09-19 20:34:50
+What exactly is RESTful programming?,4050,"Viewed 1,679,939 times","['rest', 'http', 'architecture', 'definition']",hasen,2009-03-22 14:45:39
+How do I make the first letter of a string uppercase in JavaScript?,4072,"Viewed 2,331,354 times","['javascript', 'string', 'letter', 'capitalize']",Robert Wills,2009-06-22 08:25:31
+How do I exit the Vim editor?,4173,"Viewed 2,303,210 times","['vim', 'vi']",jclancy,2012-08-06 12:25:47
+Why does Google prepend while(1); to their JSON responses?,4214,"Viewed 555,447 times","['javascript', 'json', 'ajax', 'security']",Jess,2010-04-19 18:00:09
+How do I update a GitHub forked repository?,4092,"Viewed 893,027 times","['git', 'github', 'updates', 'pull-request', 'git-fork']",Lea Hayes,2011-08-30 13:53:00
+Change a HTML5 input's placeholder color with CSS,4096,"Viewed 1,800,692 times","['css', 'html', 'placeholder', 'html-input']",David Murdoch,2010-04-09 19:54:53
+Avoiding NullPointerException in Java,4148,"Viewed 1,301,644 times","['java', 'nullpointerexception', 'null']",Goran Martinic,2008-11-07 08:31:40
+"Which “href” value should I use for JavaScript links, “#” or “javascript:void(0)”?",4191,"Viewed 2,357,514 times","['javascript', 'html', 'performance', 'optimization', 'href']",Peter Mortensen,2008-09-25 17:54:27
+Undo a Git merge that hasn't been pushed yet,4214,"Viewed 2,462,476 times","['git', 'undo', 'git-merge']",Matt Huggins,2010-03-05 19:24:44
+How do you get a timestamp in JavaScript?,4233,"Viewed 3,130,778 times","['javascript', 'date', 'datetime', 'timestamp', 'unix-timestamp']",pupeno,2008-10-21 09:29:33
+How to make a flat list out of list of lists?,3923,"Viewed 2,658,841 times","['python', 'list', 'multidimensional-array', 'flatten']",Emma,2009-06-04 20:30:05
+How do I generate random integers within a specific range in Java?,3680,"Viewed 4,325,463 times","['java', 'random', 'integer']",user42155,2008-12-12 18:20:57
+"Why don't Java's +=, -=, *=, /= compound assignment operators require casting?",3713,"Viewed 301,632 times","['java', 'casting', 'operators', 'variable-assignment', 'assignment-operator']",Honza Brabec,2012-01-03 10:10:32
+Make an existing Git branch track a remote branch?,3655,"Viewed 1,413,550 times","['git', 'branch', 'git-branch']",Pat Notz,2009-02-06 15:14:04
+Proper use cases for Android UserManager.isUserAGoat()?,3733,"Viewed 321,626 times","['java', 'android', 'usermanager']",Ovidiu Latcu,2012-11-14 08:34:01
+How do I remove a submodule?,3739,"Viewed 969,307 times","['git', 'git-submodules']",R. Martinho Fernandes,2009-08-11 14:31:24
+Understanding slice notation,3718,"Viewed 2,044,995 times","['python', 'list', 'slice', 'iterable']",Simon,2009-02-03 22:31:02
+Create ArrayList from array,3742,"Viewed 1,562,580 times","['java', 'arrays', 'arraylist', 'type-conversion']",Ron Tuffin,2008-10-01 14:38:32
+What's the difference between tilde(~) and caret(^) in package.json?,3817,"Viewed 922,068 times","['node.js', 'npm', 'package.json', 'semantic-versioning']",Fizer Khan,2014-03-12 06:02:21
+What are the differences between a HashMap and a Hashtable in Java?,3901,"Viewed 1,584,134 times","['java', 'collections', 'hashmap', 'hashtable']",dmanxiii,2008-09-02 20:12:00
+Difference between staticmethod and classmethod,3858,"Viewed 847,099 times","['python', 'oop', 'methods', 'python-decorators']",Daryl Spitzer,2008-09-25 21:01:57
+How is Docker different from a virtual machine?,3884,"Viewed 780,170 times","['docker', 'containers', 'virtual-machine', 'virtualization']",zslayton,2013-04-16 21:19:47
+How do I UPDATE from a SELECT in SQL Server?,3881,"Viewed 4,573,297 times","['sql', 'sql-server', 'tsql', 'select']",jamesmhaley,2010-02-25 14:36:53
+How to delete a remote tag?,3775,"Viewed 1,413,455 times","['git', 'git-tag']",markdorison,2011-03-29 23:41:56
+How can I check if a directory exists in a Bash shell script?,3916,"Viewed 2,890,149 times","['bash', 'shell', 'unix', 'posix']",Grundlefleck,2008-09-12 20:06:25
